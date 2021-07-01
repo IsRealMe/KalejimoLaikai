@@ -1,0 +1,115 @@
+{
+    "kalejimoSarasas": [{
+            "name": "Bendradarbiavimas vykdant sunkų nusikaltimą",
+            "value": 15
+        }, {
+            "name": "Chuliganizmas",
+            "value": 10
+        }, {
+            "name": "Klaidingos informacijos nurodymas",
+            "value": 10
+        }, {
+            "name": "Melagingas iškvietimas",
+            "value": 10
+        }, {
+            "name": "Neadekvatus elgesys",
+            "value": 20
+        }, {
+            "name": "Nesantaikos kurstymas",
+            "value": 15
+        }, {
+            "name": "Priekabiavimas",
+            "value": 15
+        }, {
+            "name": "Saugomos teritorijos nepaisymas",
+            "value": 15
+        }, {
+            "name": "Bendradarbiavimas vykdant apysunkį nusikaltimą",
+            "value": 30
+        }, {
+            "name": "Bėgimas nuo pareigūnų",
+            "value": 15
+        }, {
+            "name": "Civilio užpuolimas",
+            "value": 15
+        }, {
+            "name": "Grasinimas susidoroti",
+            "value": 15
+        }, {
+            "name": "Nelegalių įrankių naudojimas",
+            "value": 15
+        }, {
+            "name": "Parduotuvės apiplėšimas",
+            "value": 30
+        }, {
+            "name": "Bendradarbiavimas vykdant sunkų nusikaltimą",
+            "value": 45
+        }, {
+            "name": "Apiplėšimas",
+            "value": 15
+        }, {
+            "name": "Apsimetinėjimas pareigūnu",
+            "value": 15
+        }, {
+            "name": "Draudžiamų medžiagų gamyba",
+            "value": 30
+        }, {
+            "name": "Draudžiamų medžiagų platinimas",
+            "value": 20
+        }, {
+            "name": "Draudžiamų medžiagų turėjimas (Mažas kiekis (5-20vnt.))",
+            "value": 15
+        }, {
+            "name": "Draudžiamų medžiagų turėjimas (Vidutinis kiekis (20-50vnt.))",
+            "value": 20
+        }, {
+            "name": "Draudžiamų medžiagų turėjimas (Didelis kiekis (Nuo 50vnt.)",
+            "value": 45
+        }, {
+            "name": "Ginkluotas civilio užpuolimas",
+            "value": 20
+        }, {
+            "name": "Banko ar juvelyrinės apiplėšimas",
+            "value": 40
+        }, {
+            "name": "Ginkluotas parduotuvės apiplėšimas",
+            "value": 30
+        }, {
+            "name": "Nelegalaus ginklo naudojimas",
+            "value": 40
+        }, {
+            "name": "Nelegalaus ginklo turėjimas",
+            "value": 30
+        }, {
+            "name": "Nelegali veikla",
+            "value": 15
+        }, {
+            "name": "Bendradarbiavimas vykdant labai sunkų nusikaltimą",
+            "value": 60
+        }, {
+            "name": "Civilio pagrobimas",
+            "value": 50
+        }, {
+            "name": "Civilio žmogžudystė",
+            "value": 60
+        }, {
+            "name": "Ginkluotas apiplėšimas",
+            "value": 25
+        }, {
+            "name": "Netyčinė žmogžudystė",
+            "value": 30
+        }, {
+            "name": "Pareigūno pagrobimas",
+            "value": 60
+        }, {
+            "name": "Pareigūno žmogžudystė",
+            "value": 70
+        }, {
+            "name": "Pasikėsinimas į civilio gyvybę",
+            "value": 50
+        }, {
+            "name": "Pasikėsinimas į pareigūno gyvybę",
+            "value": 60
+        }
+    ]
+}

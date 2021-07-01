@@ -1,0 +1,63 @@
+*,
+*::after,
+*::before {
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-app-region: no-drag;
+  cursor: default;
+}
+html {
+  background-color: #262626;
+  color: #ccad8f;
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 10px;
+  font-size: 1.4rem;
+}
+table {
+  -webkit-border-vertical-spacing: 0px;
+}
+
+#chooseContainer {
+  display: block;
+  float: right;
+  width: 50%;
+  margin-top: 5%;
+}
+
+#options,
+#output {
+  width: 50%;
+  float: left;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+#bausmeLaukas {
+  font-size: 4rem;
+  margin-top: 30%;
+}
+
+#bausmeCount {
+  font-weight: bold;
+  font-size: 5rem;
+}
+
+#reikalingaData {
+  font-weight: bold;
+  font-size: 2rem;
+  color: #b3001b;
+}
+
+@media (max-width: 960px) {
+  #chooseContainer {
+    width: 100%;
+  }
+  #options,
+  #output {
+    width: 100%;
+  }
+}
