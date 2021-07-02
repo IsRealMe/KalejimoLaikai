@@ -1,6 +1,18 @@
 {
     "kalejimoSarasas": [{
+           "name": "160 – 500km/h  greičio viršimas",
+            "value": 30
+        }, {
             "name": "Bendradarbiavimas vykdant sunkų nusikaltimą",
+            "value": 15
+        }, {
+            "name": "Pasišalinimas iš įvykio vietos",
+            "value": 15
+        }, {
+            "name": "Tr. Priemonės vagystė",
+            "value": 25
+        }, {
+            "name": "Vairavimas apsvaigus ar pavartojus psichotropinių medžiagų",
             "value": 15
         }, {
             "name": "Chuliganizmas",
@@ -74,6 +86,9 @@
         }, {
             "name": "Ginkluotas parduotuvės apiplėšimas",
             "value": 30
+        }, {
+            "name": "Ginkluotas pareigūno užpuolimas",
+            "value": 50
         }, {
             "name": "Nelegalaus ginklo naudojimas",
             "value": 40
