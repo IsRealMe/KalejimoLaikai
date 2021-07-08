@@ -40,6 +40,9 @@ function recalculateBausme() {
     }
 
     suma = suma + tempSuma;
+    if(suma > 120) {
+      suma = 120;
+    }
     $("#bausmeCount").html(suma);
   } else {
     $("#bausmeCount").html(0);

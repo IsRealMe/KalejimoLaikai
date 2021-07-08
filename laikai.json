@@ -3,9 +3,6 @@
            "name": "160 – 500km/h  greičio viršimas",
             "value": 30
         }, {
-            "name": "Bendradarbiavimas vykdant sunkų nusikaltimą",
-            "value": 15
-        }, {
             "name": "Pasišalinimas iš įvykio vietos",
             "value": 15
         }, {
@@ -13,6 +10,12 @@
             "value": 25
         }, {
             "name": "Vairavimas apsvaigus ar pavartojus psichotropinių medžiagų",
+            "value": 15
+        }, {
+            "name": "Vairavimas be vairuotojo pažymėjimo",
+            "value": 10
+        }, {
+            "name": "Vogtos trans. priemonės vairavimas",
             "value": 15
         }, {
             "name": "Chuliganizmas",
@@ -33,7 +36,7 @@
             "name": "Priekabiavimas",
             "value": 15
         }, {
-            "name": "Saugomos teritorijos nepaisymas",
+            "name": "Saugomos teritorijos nepaisymas (Nusižengimui pasikartojus dar du kartus)",
             "value": 15
         }, {
             "name": "Bendradarbiavimas vykdant apysunkį nusikaltimą",
@@ -125,6 +128,9 @@
         }, {
             "name": "Pasikėsinimas į pareigūno gyvybę",
             "value": 60
+        }, {
+            "name": "Sąskaitų nemokėjimas (Jei nesumokėta per 2d. ir suma viršija 10000)",
+            "value": 20
         }
     ]
 }
